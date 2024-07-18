@@ -1,0 +1,99 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "^/_astro/(.*)$",
+			"headers": {
+				"cache-control": "public, max-age=31536000, immutable"
+			},
+			"continue": true
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "^\\/_image$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/about\\/about\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/articles\\/legal-sender-auth\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/articles\\/legal-sender-rep\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/AWScloud\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/certificates\\/cyber-network-pro\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/email\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/github\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/linkedin\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/researchgate\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/contact\\/wiki\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/1nimbus\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/2yumepost\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/projects\\/3smarta\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/studies\\/1wgu\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/studies\\/2gsu\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work1\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work2\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work3\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/works\\/work4\\/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^\\/$",
+			"dest": "_render"
+		}
+	]
+}
