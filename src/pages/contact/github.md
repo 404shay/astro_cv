@@ -1,5 +1,5 @@
 ---
-title: Github
+title: GitHub
 icon: carbon:logo-github
-url: httpa://github.com
+url: http://github.com/404shay
 ---

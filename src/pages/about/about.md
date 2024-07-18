@@ -1,10 +1,19 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Shay Paris"
+designation: "Deliverability Engineer"
+location: Based in Atlanta, GA
+pronouns: "she/her/ella"
+website: "http://hireshay.com"
 ---
-
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+<p style="text-align: center;">
+<img
+    src="about.gif"
+    alt="a GIF from Spirited Away with a lantern bowing to No-Face and Chihiro"
+    style="display: block; margin: 0 auto; width: 100%; max-width: 300px; height: auto;"
+/>
+<br>
+Hi, I'm Shay. 
+<br><br>
+I've been helping platforms tackle all kinds of email and abuse problems since 2018.
+</p>
