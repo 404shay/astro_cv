@@ -1,8 +1,8 @@
 ---
-title: /smarta/
+title: /smarta
 url: https://github.com/404shay/smarta
-tags: ["Transit APIs", "Split-flap Displays", "Python", "Ride MARTA, It's Smarta", "JSON"]
+tags: ["Open Data", "Split-flap Displays", "Python", "Ride MARTA, It's Smarta", "JSON", "Solari", "Public Transit" ]
 date: Ongoing
 ---
 
-This is a fun experiment that involves adapting code from multiple engineers and MARTA's transportation data feed to create a virtual Solari board for Atlanta public transit system.
+A fun experiment where I synthesize various projects with MARTA's transportation data feed to create a virtual Solari board for Atlanta's public transit system. 

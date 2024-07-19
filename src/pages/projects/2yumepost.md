@@ -1,8 +1,8 @@
 ---
-title: /yumepost/
+title: /yumepost
 url: http://yumepost.net
-tags: ["Deliverability Tools", "DNS", "Diagnostics", "Django", "Open Source", "Gunicorn", "Nginx"]
+tags: ["Deliverability Tools", "DNS", "Diagnostics", "Django", "Open Source", "Gunicorn", "Nginx", "Dig", "PostgreSQL"]
 date: Ongoing
 ---
 
-Exploring how to turn my experience diagnosing delivery errors and developing smart deliverability strategies for clients into intuitive open-source web tools. Hosted on a VPS running Django, Gunicorn, and Nginx.
+Exploring the creation of intuitive open-source web tools and resources for solving deliverability problems. Hosted on a VPS running Django, Gunicorn, and Nginx.

@@ -1,8 +1,8 @@
 ---
-title: /nimbus/
+title: /nimbus
 url: http://github.com/404shay/nimbus
 tags: ["Docker", "Containerization", "Self-Hosting", "Media Server", "Open Source", "Debian", "Personal Cloud"]
 date: Ongoing
 ---
 
-Home server goodness. Powered by Raspberry Pi and a serious frustration with subscription models.
+My homegrown cloud server for digital content and home automation. Powered by Raspberry Pi, drive by a serious frustration with subscription models.
