@@ -5,4 +5,4 @@ tags: ["Docker", "Containerization", "Self-Hosting", "Media Server", "Open Sourc
 date: Ongoing
 ---
 
-My homegrown cloud server for digital content and home automation. Powered by Raspberry Pi, drive by a serious frustration with subscription models.
+My homegrown cloud solution for digital content, network security, and household automation. Powered by Raspberry Pi, driven by a serious frustration with subscription models.
