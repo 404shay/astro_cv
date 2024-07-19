@@ -1,8 +1,8 @@
 ---
 title: Compliance Analyst
-date: June '18 - Nov. '21
+date: 06.18 - 11.21
 url: http://mailchimp.com
-location: Atlanta, Georgia
+location: Atlanta, GA
 org: Mailchimp
 tags: []
 ---

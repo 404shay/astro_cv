@@ -1,8 +1,8 @@
 ---
 title: Deliverability Engineer
-date: May '23 - Present
+date: 05.23 - Present
 url: http://lawmatics.com
-location: San Diego, California (Remote)
+location: San Diego, CA (Remote)
 org: Lawmatics
 tags: []
 ---
