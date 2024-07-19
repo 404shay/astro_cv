@@ -1,6 +1,6 @@
 ---
-title: Intro to Email Authentication for Legal Professionals
-date: 9 November 2023
+title: Email Authentication for Legal Professionals
+date: 11.09.2023
 url: https://www.natlawreview.com/article/introduction-email-authentication-legal-professionals
 url_name: The National Law Review
 ---
