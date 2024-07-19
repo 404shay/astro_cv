@@ -1,6 +1,6 @@
 ---
 title: Sr. Deliverability & Compliance
-date: Sep. 2022 - March 2023
+date: Sep. '22 - March '23
 url: http://klaviyo.com
 location: Boston, Massachussetts (Remote)
 org: Klaviyo
